@@ -1,7 +1,7 @@
 /*Author:  spencer741
  *Course:  CSCI 3080
  *Lab number: OLA1
- *Purpose: The purpose of this program is to test whether or not the alternative expression for the circuit is equivalent to
+ *Purpose: The purpose of this program is to test wheather or not the alternative expression for the circuit is equivalent to
  *         the original expression for the circuit. This problem boils down to testing whether or not two wff's are equivalent
  *         by creating truth tables.
  *Due date: October 04, 2018
